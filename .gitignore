@@ -1,0 +1,5 @@
+*.htm
+*.html
+data/*
+target/*
+.idea/*
